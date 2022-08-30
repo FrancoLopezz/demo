@@ -43,23 +43,5 @@
     "like": false,
     "duracion": "3:02",
     "album": "A Thousand Suns"  
-    },
-    {
-    "id": 7,
-    "title": "Conversations",
-    "artist": "Juice WRLD",
-    "imgSrc": "media/img/juicewrldlnd.jpg",
-    "like": false,
-    "duracion": "4:43",
-    "album": "Legends Never Die"  
-    },
-    {
-    "id": 8,
-    "title": "Irresponsables",
-    "artist": "Babasonicos",
-    "imgSrc": "media/img/infame.jpg",
-    "like": false,
-    "duracion": "2:37",
-    "album": "Infame"  
     }
 ]
